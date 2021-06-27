@@ -11,6 +11,9 @@
 # production
 /build
 
+## components
+#/src/components/todo-list-item.scss
+
 # misc
 .DS_Store
 .env.local
